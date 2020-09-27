@@ -1,8 +1,5 @@
-# NewRandom
-Test
----
-Testul a fost indeplinit cu succes!
----
+# My ReadMe
+
 Adaugarea unor exemple de programe in limbajul Pascal.
 --
 Machetul Site-ului =>
